@@ -16,7 +16,9 @@ This project is a **Sales Insights Dashboard** built using **Tableau**. It provi
 - **`My_Mini_Project.twb`** → Tableau workbook file
 - **`sales_insights.twb`** → Tableau workbook with sales analysis
 - **`db_dump.sql`** & **`db_dump_version_2.sql`** → SQL database dumps containing sales data
-- **`image.png`** → Dashboard visualization snapshot
+- **`Dashboard.jpg`** → Dashboard visualization snapshot
+
+Dashboard.jpg
 
 ## 📈 Insights from the Dashboard
 - **Total Revenue:** `$984.878M`
