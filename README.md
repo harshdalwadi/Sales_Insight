@@ -18,7 +18,7 @@ This project is a **Sales Insights Dashboard** built using **Tableau**. It provi
 - **`db_dump.sql`** & **`db_dump_version_2.sql`** → SQL database dumps containing sales data
 - **`Dashboard.jpg`** → Dashboard visualization snapshot
 
-Dashboard.jpg
+![Tableau Dashboard](https://github.com/harshdalwadi/Sales_Insight/blob/main/Dashboard.jpg)
 
 ## 📈 Insights from the Dashboard
 - **Total Revenue:** `$984.878M`
